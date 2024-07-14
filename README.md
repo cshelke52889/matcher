@@ -19,7 +19,7 @@ eg: java StringMatcher PredefinedWords.txt Input.txt
 
 You should see an output as below:
 
-Predefined word           Match count 
+Predefined word           Match count
 FirstName                      3500 
-LastName                       2700 
+LastName                       2700
 Zipcode                        1601 
